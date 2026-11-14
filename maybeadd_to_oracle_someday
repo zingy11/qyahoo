@@ -1,0 +1,11 @@
+Rank	Book	Main Focus	Best For
+1	RESTful Java with Jakarta RESTful Web Services (Bill Burke)	Jakarta REST (JAX-RS successor), RESTEasy, Jakarta EE	Direct successor to RESTful Java with JAX-RS 2.0
+2	Quarkus in Action (2nd Edition) (Martin Štefanko, Jan Martiška)	Quarkus, RESTEasy Reactive, Cloud-Native Java	Modern Red Hat / Quarkus stack
+3	Spring in Action (7th Edition) (Craig Walls)	Spring Boot 3, REST APIs, Security	Most common enterprise Java stack
+4	Cloud Native Java (Josh Long, Kenny Bastani)	Microservices, Spring, Cloud deployment	Building scalable REST services
+5	API Design Patterns (J.J. Geewax)	Resource modeling, pagination, versioning	Professional API design
+6	Designing Web APIs (Brenda Jin, Saurabh Sahni, Amir Shevat)	REST standards, consistency, governance	API architects and leads
+7	Microservices Patterns (2nd Edition) (Chris Richardson)	API gateways, service discovery, transactions	Enterprise distributed systems
+8	Building Microservices (2nd Edition) (Sam Newman)	Service decomposition, REST communication	System architecture
+9	Effective Java (3rd Edition) (Joshua Bloch)	Java best practices, immutability, concurrency	Every serious Java developer
+10	Java Concurrency in Practice (Brian Goetz et al.)	Thread safety, performance, server-side Java	High-performance REST backends
