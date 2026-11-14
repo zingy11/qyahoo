@@ -1,0 +1,2 @@
+# qyahoo
+free apis yahoo
