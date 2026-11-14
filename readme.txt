@@ -1,5 +1,5 @@
 make_a_flexible_application_object_that_deals_with_a_single_site
-
+quarkus, maven, java, postgres, hiveql
 
 resteasy vs quarkus
 
