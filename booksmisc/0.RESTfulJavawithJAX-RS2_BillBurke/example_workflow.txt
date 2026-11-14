@@ -1,0 +1,6 @@
+access workstation
+ensure access to the data sources
+acquire jdk
+
+booknotes by chapters
+update the list data sources and their metadata over time and make workflow repeatable and reusable
