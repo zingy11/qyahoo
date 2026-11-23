@@ -23,3 +23,32 @@ Year	Book	Author(s)
 2004	Better, Faster, Lighter Java	Bruce Tate
 2004	Head First Design Patterns	Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 2006	Java Concurrency in Practice	Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea
+
+Core Jini (2nd Edition)
+by W. Keith Edwards
+J2EE Design Patterns: Patterns in the Real World
+by William Crawford and Jonathan Kaplan
+Core Servlets and Javaserver Pages: Core Technologies, Vol. 1 (2nd Edition)
+by Marty Hall and Larry Brown
+Core JSTL: Mastering the JSP Standard Tag Library (Java 2 Platform, Enterprise Edition Series)
+by David M. Geary 
+J2Ee 1.4: The Big Picture
+by Solveig Haugland , Mark Cade, et al.
+Real World Java EE Patterns-Rethinking Best Practices
+by Adam Bien
+Expert One-to-One J2EE Development
+by Rod Johnson 
+Beginning J2EE 1.4: From Novice to Professional (Apress Beginner Series)
+by James L. Weaver , Kevin Mukhar, et al.
+Professional Java EE Design Patterns
+by Murat Yener , Alex Theedom , et al. | Jan 12, 2015
+Core Packages (The Java(TM) Application Programming Interface, Volume 1)
+by James Gosling and Frank Yellin | May 29, 1996
+Pro Java EE Spring Patterns: Best Practices and Design Strategies Implementing Java EE Patterns with the Spring Framework (Expert's Voice in Open Source)
+by Dhrubojyoti Kayal
+Core Packages (The Java(TM) Application Programming Interface, Volume 1)
+by James Gosling and Frank Yellin | May 29, 1996
+Jdbc 4.2, Servlet 3.1, And Jsp 2.3 Includes Jsf 2.2 And Design Patterns, Black Book, 2Ed
+Part of: Black Book (32 books)  | by Santosh Kumar K | Jan 1, 2016
+Real World Java Ee Night Hacks Dissecting The Business Tier
+English edition | by Adam Bien | 25 Apr 2011
