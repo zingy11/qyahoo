@@ -52,3 +52,5 @@ Jdbc 4.2, Servlet 3.1, And Jsp 2.3 Includes Jsf 2.2 And Design Patterns, Black B
 Part of: Black Book (32 books)  | by Santosh Kumar K | Jan 1, 2016
 Real World Java Ee Night Hacks Dissecting The Business Tier
 English edition | by Adam Bien | 25 Apr 2011
+Concurrent Programming in Java™: Design Principles and Pattern, 2nd Edition: Design Principles and Patterns
+English edition  by Doug Lea (Author) 
