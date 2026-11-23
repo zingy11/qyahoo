@@ -1,0 +1,43 @@
+If you want books from the exact JAX-RS 2.0 / Java EE 7 era (2013-2015) that focus on Jersey 2.x, here's the shortlist I'd recommend, ranked by usefulness today for learning that generation of technology.
+
+Rank	Book	Year	Jersey	Depth
+1	RESTful Java with JAX-RS 2.0 (Bill Burke)	2013	RESTEasy examples, spec-focused	⭐⭐⭐⭐⭐
+2	Developing RESTful Web Services with Jersey 2.0 (Mubarak Shah)	2013	Jersey 2.0	⭐⭐⭐⭐
+3	Jersey RESTful Web Services (Deepak Vohra)	2015	Jersey 2.x	⭐⭐⭐⭐
+4	RESTful Java Web Services (Bharat Bhushan, Abhishek...)	2015	Mostly Jersey 2.x	⭐⭐⭐⭐
+5	Java EE 7 Essentials (Arun Gupta)	2013	Jersey examples in GlassFish	⭐⭐⭐
+6	Beginning Java EE 7 (Antonio Goncalves)	2013	JAX-RS/Jersey coverage	⭐⭐⭐
+7	The Java EE 7 Tutorial (Oracle)	2014	Jersey + GlassFish	⭐⭐⭐⭐⭐ (free)
+
+
+
+
+top 3 first
+Beginning Java EE 7 (Expert Voice in Java)
+Java EE 7 Essentials: Enterprise Developer Handbook
+Beginning EJB 3: Java EE 7 Edition
+
+JavaScript Explained: Step-by-Step Guide to the Most Common and Reliable JS Techniques
+C++/CLI in Action
+
+
+Digital Java EE 7 Web Application Development
+by Peter Pilgrim
+Java EE 7: The Big Picture
+by Danny Coward
+Java EE 7 Recipes: A Problem-Solution Approach
+by Josh Juneau
+Java EE 7 Performance Tuning and Optimization
+by Osama Oransa
+Professionell entwickeln mit Java EE 7
+German Edition  by Alexander Salvanos (Author)
+Introducing Java EE 7: A Look at What's New
+by Josh Juneau (Author)
+Workshop Java EE 7: Ein praktischer Einstieg in die Java Enterprise Edition mit dem Web Profile
+German Edition  by Marcus Schießer (Author), Martin Schmollinger (Author)
+Java EE 7 with GlassFish 4 Application Server
+by Heffelfinger David (Author) 
+
+
+
+
