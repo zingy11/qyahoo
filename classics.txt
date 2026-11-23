@@ -1,0 +1,25 @@
+http://www.corej2eepatterns.com/presos/CoreJ2EEPatterns2.pdf
+http://www.corej2eepatterns.com/AboutTheBook.htm
+http://www.corej2eepatterns.com/
+
+Year	Book	Author(s)
+1994	Design Patterns: Elements of Reusable Object-Oriented Software	Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+1996	Analysis Patterns: Reusable Object Models	Martin Fowler
+1998	Thinking in Java	Bruce Eckel
+1999	Refactoring: Improving the Design of Existing Code	Martin Fowler
+1999	Mastering Enterprise JavaBeans	Ed Roman
+2001	Effective Java	Joshua Bloch
+2001	Core J2EE Patterns: Best Practices and Design Strategies	Deepak Alur, John Crupi, Dan Malks
+2002	Patterns of Enterprise Application Architecture	Martin Fowler
+2002	Expert One-on-One J2EE Design and Development	Rod Johnson
+2002	Java Application Architecture	Kirk Knoernschild
+2002	Bitter Java	Bruce Tate
+2003	Domain-Driven Design: Tackling Complexity in the Heart of Software	Eric Evans
+2003	Enterprise Integration Patterns	Gregor Hohpe, Bobby Woolf
+2003	J2EE Design Patterns Applied	Christopher Steel, Ramesh Nagappan, Ray Lai
+2003	Core Patterns: Best Practices and Design Strategies for J2EE (2nd Ed.)	Deepak Alur, John Crupi, Dan Malks
+2003	UML Distilled (3rd Edition)	Martin Fowler
+2004	Refactoring to Patterns	Joshua Kerievsky
+2004	Better, Faster, Lighter Java	Bruce Tate
+2004	Head First Design Patterns	Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+2006	Java Concurrency in Practice	Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea
